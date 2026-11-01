@@ -1,0 +1,56 @@
+# # Space Invaders DQN Project Dependencies
+# # Deep Reinforcement Learning with Keras, TensorFlow, and OpenAI Gym
+
+# # Core ML/DL frameworks
+# tensorflow>=2.20.0
+# keras-rl2==1.0.5
+
+# # Reinforcement Learning Environment
+# gym[atari]>=0.26.0
+# gymnasium>=0.29.0
+
+# # Computer Vision and Image Processing
+# opencv-python>=4.8.0
+
+# # Numerical Computing
+# numpy>=1.24.0
+
+# # Visualization
+# matplotlib>=3.7.0
+
+# # Additional utilities for GIF creation and logging
+# imageio>=2.31.0
+# imageio-ffmpeg>=0.4.9
+
+# # Optional: For better performance and monitoring
+# tensorboard>=2.20.0
+# pillow>=10.0.0
+
+# # Development and testing (optional)
+# pytest>=7.4.0
+# jupyter>=1.0.0
+
+
+# Python 3.11
+
+tensorflow-macos==2.15.0
+tensorflow-metal==1.1.0
+
+keras==2.15.0
+keras-rl2==1.0.5
+
+gym==0.26.2
+ale-py==0.8.1
+
+opencv-python==4.10.0.84
+
+numpy==1.26.4
+
+matplotlib==3.8.4
+
+imageio==2.35.1
+imageio-ffmpeg==0.5.1
+
+pillow==10.4.0
+
+tensorboard==2.15.2

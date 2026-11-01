@@ -1,0 +1,44 @@
+{
+  "training_date": "2026-09-24T00:17:01.550389",
+  "total_steps": 1000000,
+  "evaluation_episodes": 10,
+  "evaluation_results": {
+    "episode_rewards": [
+      30.0,
+      25.0,
+      25.0,
+      40.0,
+      0.0,
+      15.0,
+      0.0,
+      30.0,
+      10.0,
+      45.0
+    ],
+    "episode_lengths": [
+      180,
+      248,
+      171,
+      245,
+      178,
+      193,
+      167,
+      196,
+      119,
+      223
+    ],
+    "mean_reward": 22.0,
+    "std_reward": 14.696938456699069,
+    "mean_length": 192.0,
+    "std_length": 36.956731457205464
+  },
+  "model_architecture": {
+    "input_shape": [
+      84,
+      84,
+      4
+    ],
+    "num_actions": 6,
+    "total_params": 1687206
+  }
+}
